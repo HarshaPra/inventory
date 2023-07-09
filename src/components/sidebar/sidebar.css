@@ -1,0 +1,25 @@
+.dashbord {
+    background-color:#4A55A2;
+    width: 120px;
+    height: 91vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.items  {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 10px 20px 10px 20px;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 9px;
+    width: 70%;
+}
+.title {
+    color: white;
+}

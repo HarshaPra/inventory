@@ -1,0 +1,11 @@
+.delete {
+
+    height: 30px;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+}
